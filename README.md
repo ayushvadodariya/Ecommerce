@@ -7,7 +7,7 @@ A simple flask app to buy and sell products
 To run the app flawlessly, satisfy the requirements
 ```bash
 $ python -m venv .venv
-$ venv\Scripts\activate
+$ .venv\Scripts\activate
 $ pip install -r requirements.txt 
 ```
 
