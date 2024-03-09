@@ -1,0 +1,30 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Database files (if not using migrations)
+db.sqlite
+*.db
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.class
+
+# Dependency directories
+node_modules/
+bower_components/
